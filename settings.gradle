@@ -1,0 +1,2 @@
+rootProject.name='MoneyTrackerMatch18'
+include ':app'
